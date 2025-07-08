@@ -1,0 +1,12 @@
+name: torch
+channels:
+  - conda-forge
+dependencies:
+  - astropy
+  - ipython
+  - pytorch
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - ctaplot
